@@ -14,12 +14,6 @@ This repository contains resources and materials related to an assignment based 
 
 - **Google Slides**: [Google Slides](https://docs.google.com/presentation/d/1ZV2TQ0fmJ90QuyVRyE97PXV00ILyCkygZWhO0xSiYu4/edit?usp=sharing)  
 
-## **Visualizations**
-
-This repository includes:
-- Accuracy comparison graphs for GPT-3.5 and GPT-4 under different configurations.
-- Diagrams illustrating the experimental setup and metrics.
-
 ## **Overview**
 
 The assignment examines:
