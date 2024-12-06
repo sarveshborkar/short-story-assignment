@@ -4,15 +4,15 @@ This repository contains resources and materials related to an assignment based 
 
 ## **Resources**
 
-- **Research Paper**: [Read the full research paper on arXiv](https://arxiv.org/pdf/2407.11789)  
+- **Research Paper**: [arXiv](https://arxiv.org/pdf/2407.11789)  
   This assignment is based on the findings and methodologies presented in this foundational study.
 
-- **Medium Article**: [Read the full article on Medium](https://medium.com/@sarvesh.borkar/the-dual-nature-of-large-language-models-helpers-or-misleading-assistants-8fc9fac0aa57)  
+- **Medium Article**: [Medium](https://medium.com/@sarvesh.borkar/the-dual-nature-of-large-language-models-helpers-or-misleading-assistants-8fc9fac0aa57)  
   A detailed write-up summarizing the assignment, including insights, methodology, and technical discussions.
 
-- **Slideshare Presentation**: [View the presentation on Slideshare](https://www.slideshare.net/secret/b9BAMgOKo0JI29)  
+- **Slideshare Presentation**: [Slideshare](https://www.slideshare.net/secret/b9BAMgOKo0JI29)  
 
-- **Google Slides**: [View the presentation on Google Slides](https://docs.google.com/presentation/d/1ZV2TQ0fmJ90QuyVRyE97PXV00ILyCkygZWhO0xSiYu4/edit?usp=sharing)  
+- **Google Slides**: [Google Slides](https://docs.google.com/presentation/d/1ZV2TQ0fmJ90QuyVRyE97PXV00ILyCkygZWhO0xSiYu4/edit?usp=sharing)  
 
 ## **Visualizations**
 
