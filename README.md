@@ -1,6 +1,6 @@
 # **The Dual Nature of Large Language Models: Helpers or Misleading Assistants**
 
-This repository contains resources and materials related to an assignment based on the study *"Large Language Models as Misleading Assistants in Conversation"* by Betty Li Hou et al. The analysis, visualizations, and conclusions in this assignment aim to build upon the insights provided in the research paper.
+This repository contains resources and materials related to an assignment based on the study *"Large Language Models as Misleading Assistants in Conversation"*. The analysis, visualizations, and conclusions in this assignment aim to build upon the insights provided in the research paper.
 
 ## **Resources**
 
@@ -29,4 +29,4 @@ The assignment examines:
 
 ## **Acknowledgment**
 
-This work is a study of the research paper *"Large Language Models as Misleading Assistants in Conversation"* by Betty Li Hou et al. All credit for the original study and its findings goes to the authors. This assignment builds upon their insights to further understand and analyze the implications of their work.
+This work is a study of the research paper *"Large Language Models as Misleading Assistants in Conversation"* by *Betty Li Hou, Kejian Shi, Jason Phang, James Aung, Steven Adler, and Rosie Campbell**. All credit for the original study and its findings goes to the authors. This assignment builds upon their insights to further understand and analyze the implications of their work.
