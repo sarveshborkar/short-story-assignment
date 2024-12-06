@@ -11,10 +11,8 @@ This repository contains resources and materials related to an assignment based 
   A detailed write-up summarizing the assignment, including insights, methodology, and technical discussions.
 
 - **Slideshare Presentation**: [View the presentation on Slideshare](https://www.slideshare.net/secret/b9BAMgOKo0JI29)  
-  A concise and visually engaging summary of the assignment.
 
 - **Google Slides**: [View the presentation on Google Slides](https://docs.google.com/presentation/d/1ZV2TQ0fmJ90QuyVRyE97PXV00ILyCkygZWhO0xSiYu4/edit?usp=sharing)  
-  The editable version of the presentation for easy customization.
 
 ## **Visualizations**
 
