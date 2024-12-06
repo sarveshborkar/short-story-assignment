@@ -4,7 +4,7 @@ This repository contains resources and materials related to an assignment based 
 
 ## **Resources**
 
-- **Research Paper**: [Read the full research paper on arXiv](https://arxiv.org/pdf/2401.16549)  
+- **Research Paper**: [Read the full research paper on arXiv](https://arxiv.org/pdf/2407.11789)  
   This assignment is based on the findings and methodologies presented in this foundational study.
 
 - **Medium Article**: [Read the full article on Medium](https://medium.com/@sarvesh.borkar/the-dual-nature-of-large-language-models-helpers-or-misleading-assistants-8fc9fac0aa57)  
